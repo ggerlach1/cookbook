@@ -279,6 +279,8 @@ INPUT yeast_baking.tex
 INPUT photos/foccacia.jpeg
 INPUT ./photos/foccacia.jpeg
 INPUT ./photos/foccacia.jpeg
+INPUT holiday_favs.tex
+INPUT holiday_favs.tex
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  28 DEC 2020 09:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  28 DEC 2020 09:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -878,7 +878,7 @@ Package lettrine.sty Info: Targeted height = 17.13887pt
 (lettrine.sty)             Lettrine height = 16.03793pt (4) loversize=0.15;
 (lettrine.sty)             reported on input line 26.
 [5]
-<photos/foccacia.jpeg, id=88, 4047.12pt x 3035.34pt>
+<photos/foccacia.jpeg, id=93, 4047.12pt x 3035.34pt>
 File: photos/foccacia.jpeg Graphic file (type jpg)
 <use photos/foccacia.jpeg>
 Package pdftex.def Info: photos/foccacia.jpeg  used on input line 31.
@@ -924,84 +924,93 @@ Package lettrine.sty Info: Targeted height = 17.13887pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 16.03793pt (9) loversize=0.15;
 (lettrine.sty)             reported on input line 73.
-[6 <./photos/foccacia.jpeg>]) [7]
+[6 <./photos/foccacia.jpeg>]) [7] (./holiday_favs.tex
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 74.
+(hyperref)                than one, level fixed on input line 28.
 
 Package lettrine.sty Info: Targeted height = 17.13887pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 16.03793pt (1) loversize=0.15;
-(lettrine.sty)             reported on input line 74.
+(lettrine.sty)             reported on input line 28.
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
 
  []
 
 Package lettrine.sty Info: Targeted height = 17.13887pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 16.03793pt (2) loversize=0.15;
-(lettrine.sty)             reported on input line 74.
+(lettrine.sty)             reported on input line 28.
 Package lettrine.sty Info: Targeted height = 17.13887pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 16.03793pt (3) loversize=0.15;
-(lettrine.sty)             reported on input line 74.
+(lettrine.sty)             reported on input line 28.
 [8
 
 ]
 Package lettrine.sty Info: Targeted height = 17.13887pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 16.03793pt (1) loversize=0.15;
-(lettrine.sty)             reported on input line 103.
+(lettrine.sty)             reported on input line 57.
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--103
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 
  []
 
 Package lettrine.sty Info: Targeted height = 17.13887pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 16.03793pt (2) loversize=0.15;
-(lettrine.sty)             reported on input line 103.
+(lettrine.sty)             reported on input line 57.
 Package lettrine.sty Info: Targeted height = 17.13887pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 16.03793pt (3) loversize=0.15;
-(lettrine.sty)             reported on input line 103.
+(lettrine.sty)             reported on input line 57.
 Package lettrine.sty Info: Targeted height = 17.13887pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 16.03793pt (4) loversize=0.15;
-(lettrine.sty)             reported on input line 103.
+(lettrine.sty)             reported on input line 57.
 Package lettrine.sty Info: Targeted height = 17.13887pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 16.03793pt (5) loversize=0.15;
-(lettrine.sty)             reported on input line 103.
+(lettrine.sty)             reported on input line 57.
 [9]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
+Package lettrine.sty Info: Targeted height = 17.13887pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 16.03793pt (1) loversize=0.15;
+(lettrine.sty)             reported on input line 75.
+Package lettrine.sty Info: Targeted height = 17.13887pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 16.03793pt (2) loversize=0.15;
+(lettrine.sty)             reported on input line 75.
+) [10]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 50.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 50.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 106.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 106.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 50.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 50.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 255EAD0A6D076F813A0757C76DC54113;613.
+(rerunfilecheck)             Checksum: 7100273CDF9976CCAFC1F14E75679886;671.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 2.53586pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 50.
  ) 
 Here is how much of TeX's memory you used:
- 18070 strings out of 480608
- 339531 string characters out of 5903631
+ 18077 strings out of 480608
+ 339622 string characters out of 5903631
  595211 words of memory out of 5000000
- 33533 multiletter control sequences out of 15000+600000
+ 33535 multiletter control sequences out of 15000+600000
  538030 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,12n,64p,432b,645s stack positions out of 5000i,500n,10000p,200000b,80000s
  </Users/gabygerlach/Library/texlive/2020/texmf-var/fonts/pk/ljfour/public/cookingsymbols/cookingsymbols.870pk> </Users/gabygerlach/Library/texlive/2020/texmf-var/fonts/pk/ljfour/public/ifsym/ifsym10.600pk></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (9 pages, 4318228 bytes).
+Output written on main.pdf (10 pages, 4320050 bytes).
 PDF statistics:
- 147 PDF objects out of 1000 (max. 8388607)
- 123 compressed objects within 2 object streams
- 21 named destinations out of 1000 (max. 500000)
- 98 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 156 PDF objects out of 1000 (max. 8388607)
+ 131 compressed objects within 2 object streams
+ 23 named destinations out of 1000 (max. 500000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
 

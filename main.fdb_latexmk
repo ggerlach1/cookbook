@@ -1,10 +1,10 @@
 # Fdb version 3
-["makeindex main.idx"] 1609091398 "main.idx" "main.ind" "main" 1609165005
+["makeindex main.idx"] 1609091398 "main.idx" "main.ind" "main" 1609165596
   "main.idx" 1609091350 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
-  "main.ind"
   "main.ilg"
-["pdflatex"] 1609165002 "main.tex" "main.pdf" "main" 1609165005
+  "main.ind"
+["pdflatex"] 1609165593 "main.tex" "main.pdf" "main" 1609165596
   "/Users/gabygerlach/Library/texlive/2020/texmf-var/fonts/pk/ljfour/public/cookingsymbols/cookingsymbols.870pk" 1609091355 1568 df9b6e4e5faa501963d3a7174524f12d ""
   "/Users/gabygerlach/Library/texlive/2020/texmf-var/fonts/pk/ljfour/public/ifsym/ifsym10.600pk" 1609091358 6828 948c5dc27208716595b7d05cd0c0ae70 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -171,17 +171,18 @@
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1586288259 2432462 fd0fa20e9a3cb5f8169fd0ba1c955158 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
   "desserts.tex" 1609164997 5849 92aaf66855b0eacbdec43c8d9de6edc1 ""
-  "main.aux" 1609165005 1855 c4cf8cf0554a8addf1f6defdd36e078f "pdflatex"
+  "holiday_favs.tex" 1609165587 3242 676afe1c40e64eb30776eabb4cd343ff ""
+  "main.aux" 1609165596 1969 c33c0ad3456880ae512f36af89eade43 "pdflatex"
   "main.ind" 1609091398 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.out" 1609165005 613 255ead0a6d076f813a0757c76dc54113 "pdflatex"
-  "main.tex" 1609163314 3910 ec3ad797e9caad0054380a1d8207718f ""
-  "main.toc" 1609165005 776 0f06c8b310226b22b092250b52ad62ce "pdflatex"
+  "main.out" 1609165596 671 7100273cdf9976ccafc1f14e75679886 "pdflatex"
+  "main.tex" 1609165268 1208 36f0dabaa51e2315cc2155229e2393f0 ""
+  "main.toc" 1609165596 848 e4767a7a55f2a10146e88d0a668904c0 "pdflatex"
   "photos/foccacia.jpeg" 1609092536 4197691 8892472e72309be12791fb4e5eb3160f ""
   "yeast_baking.tex" 1609093980 3958 ed4cdcc7859e08dd1238dcfa1992b81b ""
   (generated)
-  "main.idx"
-  "main.pdf"
   "main.aux"
-  "main.out"
   "main.toc"
   "main.log"
+  "main.out"
+  "main.idx"
+  "main.pdf"

@@ -8,3 +8,4 @@
 \contentsline {section}{\numberline {3}Holiday favorites}{8}{section.3}%
 \contentsline {subsubsection}{\normalsize Sweet Potato Biscuits}{8}{section*.7}%
 \contentsline {subsubsection}{\normalsize Thanksgiving Stuffing}{9}{section*.8}%
+\contentsline {subsubsection}{\normalsize Mulled Wine}{10}{section*.9}%
