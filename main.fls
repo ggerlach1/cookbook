@@ -267,8 +267,8 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT main.toc
 INPUT main.toc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-OUTPUT main.toc
 INPUT /usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+OUTPUT main.toc
 INPUT desserts.tex
 INPUT desserts.tex
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
@@ -297,6 +297,8 @@ INPUT indian_food.tex
 INPUT indian_food.tex
 INPUT thai_food.tex
 INPUT thai_food.tex
+INPUT other_dinner.tex
+INPUT other_dinner.tex
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
