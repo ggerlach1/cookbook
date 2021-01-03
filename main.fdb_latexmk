@@ -1,10 +1,10 @@
 # Fdb version 3
-["makeindex main.idx"] 1609091398 "main.idx" "main.ind" "main" 1609369011
+["makeindex main.idx"] 1609091398 "main.idx" "main.ind" "main" 1609712617
   "main.idx" 1609091350 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
-  "main.ind"
   "main.ilg"
-["pdflatex"] 1609369007 "main.tex" "main.pdf" "main" 1609369011
+  "main.ind"
+["pdflatex"] 1609712613 "main.tex" "main.pdf" "main" 1609712617
   "/Users/gabygerlach/Library/texlive/2020/texmf-var/fonts/pk/ljfour/public/cookingsymbols/cookingsymbols.870pk" 1609091355 1568 df9b6e4e5faa501963d3a7174524f12d ""
   "/Users/gabygerlach/Library/texlive/2020/texmf-var/fonts/pk/ljfour/public/ifsym/ifsym10.600pk" 1609091358 6828 948c5dc27208716595b7d05cd0c0ae70 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -174,13 +174,15 @@
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1586288259 2432462 fd0fa20e9a3cb5f8169fd0ba1c955158 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
   "desserts.tex" 1609369001 7659 f51e8b610309eb7d734d5ad5ac903815 ""
+  "gerlachfamous.tex" 1609712605 1972 d02d0f9e18629cbe04303e74aedd24a5 ""
   "holiday_favs.tex" 1609165587 3242 676afe1c40e64eb30776eabb4cd343ff ""
   "indian_food.tex" 1609179118 3136 e5a1a2bd9cd90dbd228ce2a027d8e2cb ""
-  "main.aux" 1609369011 3189 b4d7e49d9739c9fedf97de432eff06f8 "pdflatex"
+  "instantpot.tex" 1609711594 1173 a02bb028ef6494418d6992abdf84e8b8 ""
+  "main.aux" 1609712617 3793 285db9d8e90271d9325bb96fbe927693 "pdflatex"
   "main.ind" 1609091398 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.out" 1609369011 1314 67d7c9d64ac932652cfbbff40d3cf74a "pdflatex"
-  "main.tex" 1609367560 1362 1f544e424009139c16169b55250d9e51 ""
-  "main.toc" 1609369011 1651 2be1700a32675131bcb2b595fc6a6577 "pdflatex"
+  "main.out" 1609712617 1627 513d21b3605e7153e0a939ccc7534d44 "pdflatex"
+  "main.tex" 1609711681 1454 631ee837fd2d1e6184aa6ba7ae501162 ""
+  "main.toc" 1609712617 2047 01fd4d3e45ec5619907321d8cc775ceb "pdflatex"
   "other_dinner.tex" 1609368149 1515 48179846471eb8c194506207edda0f55 ""
   "photos/bagels1.jpeg" 1609191813 1640317 9d7c8e7259f208067453a77f037c7b1c ""
   "photos/bagels2.jpeg" 1609191829 3485319 4e9b3f7638f978dcbaf2a944bc59b5aa ""
@@ -188,9 +190,9 @@
   "thai_food.tex" 1609194898 1662 f480acecb0f0e07ff8c5df40d8b55c63 ""
   "yeast_baking.tex" 1609193869 6445 71bb16a76d3f1945eda93df9476efdbe ""
   (generated)
+  "main.toc"
+  "main.pdf"
   "main.log"
   "main.out"
-  "main.toc"
-  "main.aux"
   "main.idx"
-  "main.pdf"
+  "main.aux"
