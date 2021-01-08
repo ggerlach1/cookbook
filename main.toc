@@ -20,7 +20,8 @@
 \contentsline {section}{\numberline {6}Thai Food}{18}{section.6}%
 \contentsline {subsubsection}{\normalsize Pad Thai Sauce}{18}{section*.32}%
 \contentsline {subsubsection}{\normalsize Massaman Curry}{18}{section*.34}%
-\contentsline {section}{\numberline {7}Food of Unclear Origins - potentially American}{19}{section.7}%
+\contentsline {section}{\numberline {7}Other dinners}{19}{section.7}%
 \contentsline {subsubsection}{\normalsize Ramen Carbonara}{19}{section*.36}%
-\contentsline {section}{\numberline {8}Instant Pot Recipes}{20}{section.8}%
-\contentsline {subsubsection}{\normalsize Refried Black Beans}{20}{section*.38}%
+\contentsline {subsubsection}{\normalsize Risotto}{20}{section*.38}%
+\contentsline {section}{\numberline {8}Instant Pot Recipes}{21}{section.8}%
+\contentsline {subsubsection}{\normalsize Refried Black Beans}{21}{section*.40}%
