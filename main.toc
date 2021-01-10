@@ -19,9 +19,10 @@
 \contentsline {subsubsection}{\normalsize Paneer Masala}{17}{section*.30}%
 \contentsline {section}{\numberline {6}Thai Food}{18}{section.6}%
 \contentsline {subsubsection}{\normalsize Pad Thai Sauce}{18}{section*.32}%
-\contentsline {subsubsection}{\normalsize Massaman Curry}{18}{section*.34}%
-\contentsline {section}{\numberline {7}Other dinners}{19}{section.7}%
-\contentsline {subsubsection}{\normalsize Ramen Carbonara}{19}{section*.36}%
-\contentsline {subsubsection}{\normalsize Risotto}{20}{section*.38}%
-\contentsline {section}{\numberline {8}Instant Pot Recipes}{21}{section.8}%
-\contentsline {subsubsection}{\normalsize Refried Black Beans}{21}{section*.40}%
+\contentsline {subsubsection}{\normalsize Basic Peanut Sauce}{18}{section*.34}%
+\contentsline {subsubsection}{\normalsize Massaman Curry}{19}{section*.36}%
+\contentsline {section}{\numberline {7}Other dinners}{20}{section.7}%
+\contentsline {subsubsection}{\normalsize Ramen Carbonara}{20}{section*.38}%
+\contentsline {subsubsection}{\normalsize Risotto}{21}{section*.40}%
+\contentsline {section}{\numberline {8}Instant Pot Recipes}{22}{section.8}%
+\contentsline {subsubsection}{\normalsize Refried Black Beans}{22}{section*.42}%

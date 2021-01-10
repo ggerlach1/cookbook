@@ -1,10 +1,10 @@
 # Fdb version 3
-["makeindex main.idx"] 1609091398 "main.idx" "main.ind" "main" 1610123375
+["makeindex main.idx"] 1609091398 "main.idx" "main.ind" "main" 1610301825
   "main.idx" 1609091350 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
-  "main.ind"
   "main.ilg"
-["pdflatex"] 1610123371 "main.tex" "main.pdf" "main" 1610123375
+  "main.ind"
+["pdflatex"] 1610301820 "main.tex" "main.pdf" "main" 1610301825
   "/Users/gabygerlach/Library/texlive/2020/texmf-var/fonts/pk/ljfour/public/cookingsymbols/cookingsymbols.870pk" 1609091355 1568 df9b6e4e5faa501963d3a7174524f12d ""
   "/Users/gabygerlach/Library/texlive/2020/texmf-var/fonts/pk/ljfour/public/ifsym/ifsym10.600pk" 1609091358 6828 948c5dc27208716595b7d05cd0c0ae70 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -178,21 +178,21 @@
   "holiday_favs.tex" 1609165587 3242 676afe1c40e64eb30776eabb4cd343ff ""
   "indian_food.tex" 1609179118 3136 e5a1a2bd9cd90dbd228ce2a027d8e2cb ""
   "instantpot.tex" 1609711594 1173 a02bb028ef6494418d6992abdf84e8b8 ""
-  "main.aux" 1610123375 3871 e501b5cc4514cf279ccaec50d2d87dc1 "pdflatex"
+  "main.aux" 1610301824 3993 dc1bb442777a441e52fe9a74d5d61762 "pdflatex"
   "main.ind" 1609091398 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.out" 1610123375 1650 f50134ccb154a059bc3ed36eaffbbe3c "pdflatex"
+  "main.out" 1610301824 1717 8749d003fe926ed344191711f9d87db2 "pdflatex"
   "main.tex" 1609711681 1454 631ee837fd2d1e6184aa6ba7ae501162 ""
-  "main.toc" 1610123375 2083 37bae9ce492ce19d55ad8ea30d536b27 "pdflatex"
+  "main.toc" 1610301824 2163 e79214b7b81b286f7eed645de7a19a23 "pdflatex"
   "other_dinner.tex" 1610123369 2775 230de3a1ff50a10a9ce8aa69b2cecdd3 ""
   "photos/bagels1.jpeg" 1609191813 1640317 9d7c8e7259f208067453a77f037c7b1c ""
   "photos/bagels2.jpeg" 1609191829 3485319 4e9b3f7638f978dcbaf2a944bc59b5aa ""
   "photos/foccacia.jpeg" 1609092536 4197691 8892472e72309be12791fb4e5eb3160f ""
-  "thai_food.tex" 1610030729 1766 38746a37379b1cbf3e8a29e274ffb2fb ""
+  "thai_food.tex" 1610301814 2460 85ec93bd8c0dee9785f5232fb068053c ""
   "yeast_baking.tex" 1609193869 6445 71bb16a76d3f1945eda93df9476efdbe ""
   (generated)
-  "main.out"
-  "main.pdf"
-  "main.aux"
-  "main.toc"
   "main.idx"
   "main.log"
+  "main.pdf"
+  "main.toc"
+  "main.aux"
+  "main.out"
