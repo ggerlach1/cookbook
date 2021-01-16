@@ -1,10 +1,10 @@
 # Fdb version 3
-["makeindex main.idx"] 1609091398 "main.idx" "main.ind" "main" 1610301825
+["makeindex main.idx"] 1609091398 "main.idx" "main.ind" "main" 1610838328
   "main.idx" 1609091350 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "main.ilg"
   "main.ind"
-["pdflatex"] 1610301820 "main.tex" "main.pdf" "main" 1610301825
+["pdflatex"] 1610838323 "main.tex" "main.pdf" "main" 1610838328
   "/Users/gabygerlach/Library/texlive/2020/texmf-var/fonts/pk/ljfour/public/cookingsymbols/cookingsymbols.870pk" 1609091355 1568 df9b6e4e5faa501963d3a7174524f12d ""
   "/Users/gabygerlach/Library/texlive/2020/texmf-var/fonts/pk/ljfour/public/ifsym/ifsym10.600pk" 1609091358 6828 948c5dc27208716595b7d05cd0c0ae70 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -173,16 +173,16 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1586288259 2432462 fd0fa20e9a3cb5f8169fd0ba1c955158 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "desserts.tex" 1610032726 7946 cb256d6d792979315e3d15d8feece6ff ""
+  "desserts.tex" 1610838321 7989 a911b0e54d1ff74e4fd1145d8ac9c49d ""
   "gerlachfamous.tex" 1609712605 1972 d02d0f9e18629cbe04303e74aedd24a5 ""
   "holiday_favs.tex" 1609165587 3242 676afe1c40e64eb30776eabb4cd343ff ""
   "indian_food.tex" 1609179118 3136 e5a1a2bd9cd90dbd228ce2a027d8e2cb ""
   "instantpot.tex" 1609711594 1173 a02bb028ef6494418d6992abdf84e8b8 ""
-  "main.aux" 1610301824 3993 dc1bb442777a441e52fe9a74d5d61762 "pdflatex"
+  "main.aux" 1610838327 3993 dc1bb442777a441e52fe9a74d5d61762 "pdflatex"
   "main.ind" 1609091398 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.out" 1610301824 1717 8749d003fe926ed344191711f9d87db2 "pdflatex"
+  "main.out" 1610838328 1717 8749d003fe926ed344191711f9d87db2 "pdflatex"
   "main.tex" 1609711681 1454 631ee837fd2d1e6184aa6ba7ae501162 ""
-  "main.toc" 1610301824 2163 e79214b7b81b286f7eed645de7a19a23 "pdflatex"
+  "main.toc" 1610838328 2163 e79214b7b81b286f7eed645de7a19a23 "pdflatex"
   "other_dinner.tex" 1610123369 2775 230de3a1ff50a10a9ce8aa69b2cecdd3 ""
   "photos/bagels1.jpeg" 1609191813 1640317 9d7c8e7259f208067453a77f037c7b1c ""
   "photos/bagels2.jpeg" 1609191829 3485319 4e9b3f7638f978dcbaf2a944bc59b5aa ""
@@ -190,9 +190,9 @@
   "thai_food.tex" 1610301814 2460 85ec93bd8c0dee9785f5232fb068053c ""
   "yeast_baking.tex" 1609193869 6445 71bb16a76d3f1945eda93df9476efdbe ""
   (generated)
-  "main.idx"
-  "main.log"
-  "main.pdf"
   "main.toc"
-  "main.aux"
+  "main.pdf"
+  "main.log"
   "main.out"
+  "main.idx"
+  "main.aux"
